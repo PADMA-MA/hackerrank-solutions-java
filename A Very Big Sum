@@ -13,9 +13,7 @@ public class Solution {
         long sum=0;
         
         
-           /* sum+=ar[i];
-            System.out.println(sum);
-    */
+           
     for(long a:ar)
     sum+=a;
     return sum;
