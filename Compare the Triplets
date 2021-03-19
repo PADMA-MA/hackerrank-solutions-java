@@ -30,9 +30,6 @@ result.add(0, A); result.add(1, B);
 
     return result;
 
-
-
-
     }
     
 
