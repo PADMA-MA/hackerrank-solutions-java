@@ -8,7 +8,7 @@ import java.util.regex.*;
 
 public class Solution {
 
-    static long aVeryBigSum(long[] ar) {
+   static long aVeryBigSum(long[] ar) {
         long sum=0;
         
         
