@@ -10,10 +10,7 @@ public class Solution {
 
    static long aVeryBigSum(long[] ar) {
         long sum=0;
-        
-        
-           
-    for(long a:ar)
+        for(long a:ar)
     sum+=a;
     return sum;
         
